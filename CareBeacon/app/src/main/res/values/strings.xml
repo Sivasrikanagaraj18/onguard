@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CareBeacon</string>
+    <string name="accessibility_service_description">CareBeacon uses this service to detect emergency volume button patterns to trigger SOS alerts. It does not read screen content or access your data.</string>
+</resources>
